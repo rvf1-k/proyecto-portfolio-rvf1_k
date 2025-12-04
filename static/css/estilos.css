@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.card img {
+  max-height: 200px;
+  object-fit: cover;
+}
+.img-fluid {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: #f2f2f2;
+}
+.text-center {
+  text-align: center;
+}
+
+.btn-azul {
+  background-color: #4e73df;
+  color: white;
+  border: none;
+}
+
+.btn-azul:hover {
+  background-color: #2e59d9; /* un poco más oscuro al pasar el ratón */
+  color: white;
+}
