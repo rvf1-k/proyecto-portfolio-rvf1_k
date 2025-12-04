@@ -61,7 +61,9 @@ Creamos el bucket, entramos en los detalles de este y añadimos el siguiente per
 ```
 > [!WARNING]
 > Si no has configurado el nombre al bucket como `portfolio-img-rvf1k` 
+>
 > `"Resource": "arn:aws:s3:::NOMBRE_DEL_BUCKET/*"`
+> 
 > Cambia esa linea con el nombre de tu bucket.
 
 Tras crear el bucket seleccionalo, en la sección **objetos** cargamos la carpeta de release [img-upload.zip
@@ -93,11 +95,11 @@ Tras crear el bucket seleccionalo, en la sección **objetos** cargamos la carpet
 
 Para ver la pagina, dirigimos a `EC2 > instancia > selecciona la instancia > detalles`, y copiamos el enlace de DNS público.
 
-Que será algo parecido al siguiente: https://ec2-184-72-241-133.compute-1.amazonaws.com/
+Que será algo parecido al siguiente: `https://ec2-184-72-241-133.compute-1.amazonaws.com`
 
 Ya podremos acceder a la web 👍
 
 > [!IMPORTANT]
 > No olvides quitar `s` de `https`, ya que al no tener certificado se debe utilizar el protocolo `http`.
 > 
-> El enlace debe quedar tal que así: http://ec2-184-72-241-133.compute-1.amazonaws.com/
+> El enlace debe quedar tal que así: `http://ec2-184-72-241-133.compute-1.amazonaws.com`
