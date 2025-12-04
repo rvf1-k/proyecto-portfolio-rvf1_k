@@ -74,7 +74,7 @@ Tras crear el bucket seleccionalo, en la sección **objetos** cargamos la carpet
 
 > [!WARNING]
 > ###### Advertencia bucket
-> Si no has configurado el nombre al bucket como `portfolio-img-rvf1k` y estás en la misma región `us-east-1` no funcionarán las imagenes, ya que no se generará el mimso enlace.
+> Si no has configurado el nombre al bucket como `portfolio-img-rvf1k` y no estás en la misma región `us-east-1` no funcionarán las imagenes, ya que no se generará el mimso enlace.
 >
 > Los buckets tienen nombre globales, por lo tanto deben ser unicos, si alguien ha creado un bucket activo de nombre `portfolio-img-rvf1k` no podrás crearlo.
 > 
