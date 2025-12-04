@@ -6,7 +6,7 @@ require 'templates/header.php';
 
     <main class="container my-5">
 <div class="text-center">
-    <img src="https://portfolio-img-rvf1k.s3.us-east-1.amazonaws.comimg/logo.png" alt="Logo Portfolio" class="img-fluid" style="max-width:450px;">
+    <img src="https://portfolio-img-rvf1k.s3.us-east-1.amazonaws.com/img/logo.png" alt="Logo Portfolio" class="img-fluid" style="max-width:450px;">
     <h1 class="mb-4">Bienvenido a mi Portfolio</h1>    
     <p class="lead">Explora mis proyectos y trabajos destacados.</p>
     <br><br>

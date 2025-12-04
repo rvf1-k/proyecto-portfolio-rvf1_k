@@ -8,7 +8,7 @@ require 'templates/header.php';
     <!-- Datos de contacto -->
     <div class="row row justify-content-center">
         <div class="col-md-4 d-flex flex-column justify-content-center">
-            <img src="https://portfolio-img-rvf1k.s3.us-east-1.amazonaws.comimg/contacto.png" alt="Contacto" class="img-fluid rounded shadow-sm" style="max-height:200px;">
+            <img src="https://portfolio-img-rvf1k.s3.us-east-1.amazonaws.com/img/contacto.png" alt="Contacto" class="img-fluid rounded shadow-sm" style="max-height:200px;">
         </div>
         <div class="col-md-4 d-flex flex-column justify-content-center">
             <h5 class="fw-semibold">Rafael Moreno Riquelme</h5>
