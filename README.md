@@ -17,7 +17,7 @@ Crea una app en Elastic Beanstalk, añade de nombre a la app `portfolio-rvf1k`.
 Plataforma a utilizar PHP.
 
 En código de aplicación cargar el archivo de release [portfolio.zip
-](https://github.com/rvf1-k/proyecto-portfolio-rvf1_k/releases/download/v4.0.0/portfolio-rvf1k.zip).
+](https://github.com/rvf1-k/proyecto-portfolio-rvf1_k/releases).
 
 
 > [!IMPORTANT]
@@ -67,7 +67,7 @@ Creamos el bucket, entramos en los detalles de este y añadimos el siguiente per
 > Cambia esa linea con el nombre de tu bucket.
 
 Tras crear el bucket seleccionalo, en la sección **objetos** cargamos la carpeta de release [img-upload.zip
-](https://github.com/rvf1-k/proyecto-portfolio-rvf1_k/releases/download/v4.0.0/img-upload.zip) a S3.
+](https://github.com/rvf1-k/proyecto-portfolio-rvf1_k/releases) a S3.
 
 > [!IMPORTANT]
 > Descomprime el .zip primero y carga la carpeta `/img`
