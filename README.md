@@ -16,7 +16,7 @@ Crea una app en Elastic Beanstalk, añade de nombre a la app `portfolio-rvf1k`.
 
 Plataforma a utilizar PHP.
 
-En código de aplicación cargar el archivo de release [portfolio.zip
+En código de aplicación cargar el archivo de release [portfolio-rvf1k.zip
 ](https://github.com/rvf1-k/proyecto-portfolio-rvf1_k/releases).
 
 
